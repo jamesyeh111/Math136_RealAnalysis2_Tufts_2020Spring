@@ -5,4 +5,10 @@ This is the repository for saving my Math 136 materials.
 
 [Week 1](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%201/)
 
-[week 2](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%202)
+[Week 2](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/tree/master/Week%202)
+
+[Week 3]()
+
+--------------------
+
+[My note Week 1 - 4](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf)
