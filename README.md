@@ -12,11 +12,15 @@ This is the repository for saving my Math 136 materials.
 --------------------
 My note
 
-[Week 1 - 4 Derivative](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf) 
+Week 1 - 5: Derivative, Chain Rule, Mean Value Theorem for function, General Implicit Function Theorem. (one dimension / higher dimension)
+Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value Theorem for Integrals, Fundamental Theorem of Calculus, Darboux Sum Convergence Theorem, Riemann Sum Convergence Theorem, Generalized Rectangles, Jordan Domain, General Theorem for Integration 
 
-[Week 5 - 8 Integration ](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Math%20136%20week%205-8.pdf)
 
-[Week 9 Jordan Conten 0, Jordan Domain, Zero Extension Func..](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20temporary%20Mar%209.pdf) (before spring break)
+[Week 1 - 4](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20week%201-4.pdf) 
+
+[Week 5 - 8](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Math%20136%20week%205-8.pdf)
+
+[Week 9](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20temporary%20Mar%209.pdf) (before spring break)
 
 --------------------
 
