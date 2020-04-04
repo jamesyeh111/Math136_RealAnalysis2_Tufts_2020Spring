@@ -14,12 +14,18 @@ Homework
 [Week 7 A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20hw7A.pdf)
 [Week 7 B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/136s20hw7B.pdf)
 
+[Week 8]
+
 --------------------
 My homework 
 
 [6A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_HW6A.pdf)
 [6B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_Ye_HW6B.pdf)
 
+[7A](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136-hw7-partA-Liuyi.pdf)
+[7B](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/Liuyi_Ye_HW7B_graded.pdf)
+
+[8](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136_hw8_Liuyi.pdf)
 
 --------------------
 My note
@@ -37,7 +43,7 @@ Week 6 - 9: Darboux Sum, Integration, Archimedes Riemann Theorem, Mean Value The
 
 [Week 9](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136%20temporary%20Mar%209.pdf) (before spring break)
 
-[Midterm 2 review_note]
+[Midterm 2 review_note](https://github.com/jamesyeh111/RealAnalysis2_2020Spring/blob/master/math136r2_note.pdf)
 
 --------------------
 
